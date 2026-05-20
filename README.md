@@ -1,8 +1,8 @@
 ## Ex-4 Deployment and configuration of a Private Cloud in AWS
 
 ### DATE:
-## Name: MANIKANDAN M
-## Reg. No.:212224040183
+## Name: HARISH S
+## Reg. No.:212224110022
 
 ## Aim:
 To set up of a Private Cloud in AWS.
